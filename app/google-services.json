@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153024466042",
+    "project_id": "aspected-3d90b",
+    "storage_bucket": "aspected-3d90b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153024466042:android:2f916d59738cb2a8483fc3",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvJmQO3tGLyJ9mc39bzhIPwd_go6tHIY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
